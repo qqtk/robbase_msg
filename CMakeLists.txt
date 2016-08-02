@@ -7,6 +7,8 @@ find_package(catkin REQUIRED COMPONENTS std_msgs message_generation)
 add_message_files(
   FILES 
   encoders.msg
+  Encoder.msg
+  WheelSpeed.msg
 )
 
 #generate added messages with any dependencies listed here
