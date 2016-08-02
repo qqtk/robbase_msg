@@ -7,7 +7,6 @@ find_package(catkin REQUIRED COMPONENTS std_msgs message_generation)
 add_message_files(
   FILES 
   encoders.msg
-  md49_data.msg
 )
 
 #generate added messages with any dependencies listed here
