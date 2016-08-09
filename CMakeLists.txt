@@ -9,6 +9,7 @@ add_message_files(
   encoders.msg
   Encoder.msg
   WheelSpeed.msg
+  RazorImu.msg
 )
 
 #generate added messages with any dependencies listed here
