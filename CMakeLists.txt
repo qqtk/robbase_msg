@@ -8,6 +8,7 @@ add_message_files(
   FILES 
   encoders.msg
   Encoder.msg
+  tickfourwheels.msg
   WheelSpeed.msg
   RazorImu.msg
 )
